@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "sfTextThin";
+  src: local("sfTextThin"),
+    url(./fonts/sanfranciscotext-thin-webfont.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "MontserratBold";
+  src: local("MontserratBold"),
+    url(./fonts/Montserrat-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "MontserratRegular";
+  src: local("MontserratRegular"),
+    url(./fonts/Montserrat-Regular.ttf) format("truetype");
+}
